@@ -1,0 +1,301 @@
+id_asegurado,nombre,dni,fecha_nacimiento,ciudad,id_poliza,producto,fecha_alta,prima_anual,estado,matricula
+ASG-0001,Álvaro Sánchez Ruiz,90668968R,1987-09-26,Granada,POL-A-00001,auto_terceros,2020-11-28,560,activa,9042 YTK
+ASG-0002,Laura Moreno Sánchez,70351650D,1951-01-12,Alicante,POL-A-00002,auto_terceros,2025-08-22,720,activa,6148 JRL
+ASG-0003,David Ramos López,55686986F,1958-01-17,Vigo,POL-A-00003,auto_todo_riesgo,2022-07-19,560,activa,5786 MTG
+ASG-0004,Lucía Romero Romero,71884106K,1987-11-18,Sevilla,POL-R-00004,responsabilidad_civil,2023-01-30,410,activa,
+ASG-0005,Laura Torres Ramos,90552815K,1994-01-20,Valladolid,POL-R-00005,responsabilidad_civil,2020-12-15,560,activa,
+ASG-0006,Raúl Vázquez Ramos,79523069V,1952-04-11,Granada,POL-A-00006,auto_todo_riesgo,2021-11-01,240,activa,3113 CWF
+ASG-0007,Sergio Pérez Vázquez,40726097C,1960-12-12,Alicante,POL-H-00007,hogar,2021-09-24,720,activa,
+ASG-0008,Daniel Navarro Moreno,83571250Z,1995-01-11,Alicante,POL-A-00008,auto_todo_riesgo,2023-09-24,890,activa,7585 SJM
+ASG-0009,Marta Pérez Blanco,71502247P,1993-12-01,Málaga,POL-H-00009,hogar,2026-06-11,240,activa,
+ASG-0010,Pablo Ramos Vázquez,68281295E,1953-01-06,Zaragoza,POL-A-00010,auto_todo_riesgo,2021-02-06,320,activa,8498 FTW
+ASG-0011,Miguel Vázquez López,97046671B,1973-11-27,Alicante,POL-A-00011,auto_todo_riesgo,2024-06-29,320,activa,2583 JSG
+ASG-0012,Carmen García Domínguez,87932180Y,1957-06-14,Granada,POL-A-00012,auto_todo_riesgo,2026-05-22,890,activa,4257 KFZ
+ASG-0013,Carlos Pérez García,52069571D,1994-02-20,Valencia,POL-A-00013,auto_terceros,2023-07-15,560,activa,4652 VYG
+ASG-0014,Nuria López Torres,99731916Y,1964-05-13,Valencia,POL-R-00014,responsabilidad_civil,2020-11-19,890,activa,
+ASG-0015,Álvaro Torres Navarro,29936204W,1967-08-25,Valladolid,POL-H-00015,hogar,2023-02-11,180,activa,
+ASG-0016,Carmen Martínez Romero,96741219E,1981-09-15,Madrid,POL-R-00016,responsabilidad_civil,2022-03-07,180,activa,
+ASG-0017,Nuria Domínguez Álvarez,26290387F,1994-08-22,Alicante,POL-A-00017,auto_todo_riesgo,2022-11-14,560,activa,3797 GYW
+ASG-0018,Pablo Blanco Ruiz,19329269T,1985-10-23,Madrid,POL-A-00018,auto_terceros,2022-10-10,240,activa,3840 CXC
+ASG-0019,Sergio García Pérez,96657987G,1969-08-16,Vigo,POL-A-00019,auto_todo_riesgo,2024-06-06,240,anulada,3627 HRL
+ASG-0020,Carmen Navarro Moreno,35125395W,1980-11-13,Valencia,POL-A-00020,auto_todo_riesgo,2021-11-25,320,activa,8600 VSM
+ASG-0021,Álvaro Vázquez Domínguez,26120303P,1974-07-26,Sevilla,POL-A-00021,auto_todo_riesgo,2022-11-22,890,activa,4511 KBD
+ASG-0022,Miguel Gil Gómez,13648678H,1981-07-29,Valencia,POL-R-00022,responsabilidad_civil,2022-11-03,320,activa,
+ASG-0023,Laura Blanco Díaz,84598180V,1969-03-28,Granada,POL-H-00023,hogar,2024-02-13,320,activa,
+ASG-0024,Laura Díaz Sánchez,68526026X,1965-05-14,Sevilla,POL-H-00024,hogar,2025-01-21,720,activa,
+ASG-0025,Paula Sánchez Ramos,52084090S,1974-10-31,Granada,POL-A-00025,auto_terceros,2022-07-20,890,activa,2047 MNH
+ASG-0026,Lucía Torres Díaz,65637040P,1951-05-21,Madrid,POL-A-00026,auto_todo_riesgo,2025-11-03,180,activa,4853 BMF
+ASG-0027,Javier Domínguez Blanco,93983744V,1953-05-30,Valladolid,POL-A-00027,auto_terceros,2022-08-14,320,activa,4532 ZTS
+ASG-0028,Carlos Ramos Díaz,62217045K,1976-03-09,Málaga,POL-R-00028,responsabilidad_civil,2025-03-16,180,activa,
+ASG-0029,Lucía Moreno Álvarez,48863507F,1960-12-22,Zaragoza,POL-H-00029,hogar,2021-08-25,890,activa,
+ASG-0030,Daniel Álvarez Fernández,85277736S,1955-01-14,Sevilla,POL-A-00030,auto_todo_riesgo,2026-04-26,240,activa,3010 FCG
+ASG-0031,Lucía Torres Serrano,26951405M,1981-12-08,Valladolid,POL-A-00031,auto_todo_riesgo,2023-02-27,410,activa,7179 KSK
+ASG-0032,Daniel García Gil,84477168P,1985-08-09,Zaragoza,POL-H-00032,hogar,2024-06-27,890,activa,
+ASG-0033,Lucía Díaz Gil,74269259M,1987-06-29,Zaragoza,POL-A-00033,auto_terceros,2026-04-14,320,activa,3271 YDH
+ASG-0034,Javier Ramos Álvarez,17550517E,1951-01-09,Bilbao,POL-H-00034,hogar,2023-07-28,410,activa,
+ASG-0035,Álvaro Pérez Navarro,58309143A,1970-11-10,Vigo,POL-A-00035,auto_terceros,2024-01-22,890,activa,5518 NJP
+ASG-0036,Daniel Vázquez Serrano,51901923P,1966-11-10,Valencia,POL-A-00036,auto_todo_riesgo,2021-05-31,720,activa,7726 GVB
+ASG-0037,Marta Gómez López,50135960P,1983-06-12,Vigo,POL-R-00037,responsabilidad_civil,2021-12-19,720,activa,
+ASG-0038,Lucía Gil Fernández,88166830X,1977-07-08,Granada,POL-A-00038,auto_todo_riesgo,2025-06-01,180,activa,7443 RXW
+ASG-0039,Álvaro Sánchez López,29044466C,1984-12-01,Málaga,POL-H-00039,hogar,2024-10-09,560,activa,
+ASG-0040,Raúl Fernández Gómez,49314126X,1976-06-29,Vigo,POL-A-00040,auto_todo_riesgo,2026-01-29,320,activa,6852 GRJ
+ASG-0041,Diego Vázquez Torres,57735624N,1965-05-01,Vigo,POL-R-00041,responsabilidad_civil,2026-06-10,180,activa,
+ASG-0042,Paula García Sánchez,79121083W,1950-03-07,Málaga,POL-A-00042,auto_terceros,2024-12-03,180,activa,7029 MJX
+ASG-0043,Elena Sánchez Álvarez,75037186P,1959-08-21,Sevilla,POL-A-00043,auto_terceros,2023-10-06,410,activa,5301 ZMF
+ASG-0044,Laura Gil Ramos,43155381K,1982-03-07,Alicante,POL-A-00044,auto_todo_riesgo,2020-12-14,560,activa,6654 DDD
+ASG-0045,Irene Ruiz Gómez,53621033Y,1988-10-23,Vigo,POL-H-00045,hogar,2023-01-17,560,activa,
+ASG-0046,David Álvarez Gómez,36371862F,1991-07-16,Bilbao,POL-A-00046,auto_todo_riesgo,2021-01-05,890,activa,6710 PSY
+ASG-0047,Pablo Serrano Pérez,67887514R,1974-01-04,Málaga,POL-A-00047,auto_todo_riesgo,2024-10-24,890,activa,2930 NLT
+ASG-0048,Ana Álvarez Pérez,85336401F,1961-01-21,Zaragoza,POL-A-00048,auto_todo_riesgo,2023-07-16,320,activa,8504 RRB
+ASG-0049,Miguel Álvarez Sánchez,76395419E,1996-05-09,Bilbao,POL-A-00049,auto_todo_riesgo,2022-11-08,410,activa,6769 NCR
+ASG-0050,Irene Gil Díaz,27528726A,1979-12-19,Granada,POL-H-00050,hogar,2026-06-05,720,activa,
+ASG-0051,Sergio Álvarez García,15032570T,1969-09-22,Sevilla,POL-H-00051,hogar,2021-03-17,720,activa,
+ASG-0052,Javier García Fernández,71355838V,1996-03-13,Zaragoza,POL-R-00052,responsabilidad_civil,2023-07-14,560,activa,
+ASG-0053,Daniel Fernández Gil,11529160L,1958-07-30,Valencia,POL-H-00053,hogar,2025-08-29,320,activa,
+ASG-0054,Sara Blanco Gómez,51533423Z,1957-07-24,Granada,POL-R-00054,responsabilidad_civil,2021-05-07,410,activa,
+ASG-0055,Laura García Díaz,66309126B,1953-12-28,Valencia,POL-H-00055,hogar,2025-01-19,560,activa,
+ASG-0056,Sergio Álvarez Álvarez,56628928F,1978-07-07,Granada,POL-H-00056,hogar,2023-12-14,410,activa,
+ASG-0057,Irene Martínez Vázquez,27882406N,1951-12-15,Alicante,POL-A-00057,auto_todo_riesgo,2022-11-17,890,activa,6999 LTJ
+ASG-0058,Nuria Fernández Serrano,17272944J,1986-11-11,Sevilla,POL-A-00058,auto_todo_riesgo,2022-01-22,720,activa,9338 XMV
+ASG-0059,Sergio Álvarez Álvarez,58329025J,1966-04-03,Sevilla,POL-H-00059,hogar,2022-11-25,560,activa,
+ASG-0060,Irene Ramos Ramos,61382379W,1959-07-18,Granada,POL-R-00060,responsabilidad_civil,2024-08-03,240,activa,
+ASG-0061,Sara Torres Ramos,80675927T,1961-05-07,Vigo,POL-A-00061,auto_terceros,2023-11-05,240,anulada,5434 VGX
+ASG-0062,Carlos Navarro Gil,92575668R,1966-12-17,Valencia,POL-H-00062,hogar,2022-11-22,560,activa,
+ASG-0063,Elena Pérez Serrano,18197733H,1953-02-05,Zaragoza,POL-H-00063,hogar,2024-10-29,890,activa,
+ASG-0064,Elena Díaz Gil,57868867Q,1961-06-25,Alicante,POL-A-00064,auto_todo_riesgo,2024-07-15,240,activa,4056 CHG
+ASG-0065,Daniel García Moreno,39653601Z,1996-03-01,Málaga,POL-A-00065,auto_todo_riesgo,2021-01-20,560,activa,2507 TSG
+ASG-0066,Álvaro Martínez Vázquez,11015315V,1955-03-22,Sevilla,POL-R-00066,responsabilidad_civil,2024-11-29,320,activa,
+ASG-0067,Javier García Gómez,77546866C,1967-03-02,Sevilla,POL-H-00067,hogar,2023-08-30,410,activa,
+ASG-0068,Paula Ruiz Ruiz,98801484Q,1994-05-15,Bilbao,POL-H-00068,hogar,2024-04-23,320,activa,
+ASG-0069,Miguel Domínguez Romero,38075808K,1977-09-11,Alicante,POL-A-00069,auto_terceros,2021-10-24,560,activa,8893 DJJ
+ASG-0070,Carlos Blanco Gómez,25454771G,1965-06-11,Bilbao,POL-A-00070,auto_terceros,2025-08-30,720,activa,8103 JSB
+ASG-0071,Irene Moreno Romero,63459166G,1950-11-09,Alicante,POL-A-00071,auto_todo_riesgo,2024-12-02,560,activa,8539 LPV
+ASG-0072,Elena Gil Ruiz,58183454D,1990-11-29,Valladolid,POL-R-00072,responsabilidad_civil,2025-05-04,560,activa,
+ASG-0073,Daniel Álvarez Díaz,20580092Z,1991-05-11,Alicante,POL-H-00073,hogar,2026-01-02,320,activa,
+ASG-0074,Irene Moreno Martínez,20810235L,1953-10-04,Sevilla,POL-A-00074,auto_todo_riesgo,2025-06-11,560,activa,8412 YFR
+ASG-0075,Diego Vázquez Gil,12948273D,1963-09-26,Málaga,POL-H-00075,hogar,2021-06-03,240,activa,
+ASG-0076,Carmen Gómez Gil,44218572Z,1951-08-21,Madrid,POL-A-00076,auto_terceros,2022-02-25,720,activa,2165 ZWF
+ASG-0077,Elena Moreno Vázquez,42481737R,1978-11-29,Alicante,POL-H-00077,hogar,2022-10-16,720,activa,
+ASG-0078,Álvaro Álvarez Torres,15541091Z,1993-11-13,Bilbao,POL-A-00078,auto_terceros,2023-11-15,560,activa,4019 TJF
+ASG-0079,Sergio Ramos García,76968603T,1969-08-10,Valladolid,POL-H-00079,hogar,2022-04-07,720,activa,
+ASG-0080,Elena Moreno Ruiz,79974347N,1978-02-28,Zaragoza,POL-A-00080,auto_terceros,2021-04-29,890,activa,8073 YBP
+ASG-0081,Álvaro Sánchez Serrano,59457476S,1969-06-14,Granada,POL-H-00081,hogar,2024-09-05,180,activa,
+ASG-0082,David Sánchez Sánchez,65823356R,1985-12-20,Madrid,POL-H-00082,hogar,2021-06-01,240,activa,
+ASG-0083,Paula Ramos Díaz,60229449Q,1957-08-02,Zaragoza,POL-A-00083,auto_terceros,2023-08-08,240,activa,1595 JXF
+ASG-0084,Carlos Domínguez Ramos,94621612A,1953-02-09,Bilbao,POL-R-00084,responsabilidad_civil,2026-02-23,720,activa,
+ASG-0085,Marta Moreno López,32594454G,1955-11-17,Zaragoza,POL-H-00085,hogar,2021-02-22,240,activa,
+ASG-0086,Sergio Díaz López,83353800Y,1965-01-13,Vigo,POL-A-00086,auto_terceros,2026-01-21,720,activa,9465 YXK
+ASG-0087,Daniel Romero Ruiz,82042654K,1985-04-04,Alicante,POL-A-00087,auto_todo_riesgo,2025-12-12,180,activa,4969 CBS
+ASG-0088,Pablo Blanco Gómez,33028108Q,1971-04-03,Valencia,POL-A-00088,auto_todo_riesgo,2025-07-17,560,activa,4266 WNR
+ASG-0089,Pablo López García,56215249Y,1956-09-01,Valencia,POL-A-00089,auto_todo_riesgo,2024-08-26,560,activa,9467 KVG
+ASG-0090,Paula Vázquez Gil,25484722D,1962-06-11,Madrid,POL-H-00090,hogar,2022-12-06,890,activa,
+ASG-0091,Miguel Serrano Álvarez,78761242L,1981-12-08,Sevilla,POL-A-00091,auto_todo_riesgo,2020-12-17,720,activa,1344 LKF
+ASG-0092,Nuria Blanco Serrano,86025272M,1966-02-12,Zaragoza,POL-A-00092,auto_todo_riesgo,2023-10-20,720,activa,9704 BBN
+ASG-0093,Pablo Serrano Sánchez,42568414Z,1992-04-18,Valencia,POL-R-00093,responsabilidad_civil,2024-07-30,560,activa,
+ASG-0094,Laura López Pérez,10533783J,1977-11-28,Valencia,POL-R-00094,responsabilidad_civil,2021-03-08,410,activa,
+ASG-0095,Pablo Blanco Moreno,30208479A,1984-03-12,Madrid,POL-R-00095,responsabilidad_civil,2026-04-26,410,activa,
+ASG-0096,Ana Álvarez Domínguez,19161246S,1984-07-23,Zaragoza,POL-H-00096,hogar,2025-06-19,410,activa,
+ASG-0097,Irene Domínguez Blanco,65088539B,1992-02-14,Zaragoza,POL-H-00097,hogar,2023-03-18,890,activa,
+ASG-0098,Laura Blanco Gil,14111824J,1968-05-09,Bilbao,POL-A-00098,auto_todo_riesgo,2024-08-29,720,activa,5824 RKN
+ASG-0099,Ana Navarro Pérez,90738959A,1980-01-29,Vigo,POL-A-00099,auto_terceros,2025-05-29,410,activa,4402 ZXM
+ASG-0100,Irene Romero Domínguez,42556548Q,1965-10-03,Vigo,POL-R-00100,responsabilidad_civil,2022-04-22,320,activa,
+ASG-0101,Nuria Gómez Torres,99944578X,1961-03-21,Alicante,POL-A-00101,auto_terceros,2024-05-09,410,activa,9141 CZM
+ASG-0102,Daniel Moreno Torres,40310329T,1995-11-01,Zaragoza,POL-H-00102,hogar,2022-10-05,890,activa,
+ASG-0103,Carlos Romero Navarro,80565645A,1969-10-15,Madrid,POL-H-00103,hogar,2020-11-14,410,activa,
+ASG-0104,Diego Romero Ruiz,85056370R,1983-11-27,Málaga,POL-A-00104,auto_todo_riesgo,2022-03-15,890,activa,1477 FKJ
+ASG-0105,Sergio Gómez Torres,78860266M,1967-01-01,Málaga,POL-A-00105,auto_terceros,2022-02-17,180,activa,9934 DFF
+ASG-0106,Pablo Blanco Romero,95351976W,1996-04-14,Sevilla,POL-A-00106,auto_terceros,2025-03-01,410,anulada,4850 NMB
+ASG-0107,Javier Pérez Domínguez,94200104Q,1987-02-17,Sevilla,POL-A-00107,auto_terceros,2025-10-20,720,activa,2728 JXV
+ASG-0108,Laura López Romero,41768800H,1963-05-28,Alicante,POL-A-00108,auto_todo_riesgo,2024-07-07,410,activa,2631 XSG
+ASG-0109,Miguel López Domínguez,76823433Y,1955-07-04,Alicante,POL-A-00109,auto_terceros,2021-05-06,410,activa,6759 FCS
+ASG-0110,Irene Gil Ramos,43295853D,1988-02-04,Sevilla,POL-A-00110,auto_terceros,2025-10-10,320,anulada,3767 BGZ
+ASG-0111,Irene Torres Sánchez,40390973Y,1982-09-26,Sevilla,POL-H-00111,hogar,2023-02-05,410,activa,
+ASG-0112,Raúl Blanco Díaz,52837145G,1988-04-20,Granada,POL-R-00112,responsabilidad_civil,2025-08-13,890,activa,
+ASG-0113,Diego Ramos Gómez,80809146A,1987-08-06,Zaragoza,POL-H-00113,hogar,2023-12-03,180,activa,
+ASG-0114,Álvaro Domínguez Moreno,65486797R,1973-05-19,Bilbao,POL-H-00114,hogar,2023-09-21,720,activa,
+ASG-0115,Paula Romero Ramos,51468445B,1973-10-26,Zaragoza,POL-R-00115,responsabilidad_civil,2021-08-04,180,activa,
+ASG-0116,Lucía Fernández Blanco,89851447S,1980-04-16,Málaga,POL-R-00116,responsabilidad_civil,2023-10-12,720,activa,
+ASG-0117,Javier Navarro Torres,92177361P,1991-06-06,Granada,POL-R-00117,responsabilidad_civil,2025-03-03,410,activa,
+ASG-0118,Miguel Domínguez Serrano,53545356E,1983-11-10,Málaga,POL-H-00118,hogar,2022-05-14,180,activa,
+ASG-0119,Carlos Díaz Vázquez,11344907L,1982-04-25,Valladolid,POL-H-00119,hogar,2022-03-19,410,activa,
+ASG-0120,Nuria Gil Gil,17337456X,1960-06-03,Málaga,POL-A-00120,auto_terceros,2026-04-15,410,activa,5286 RML
+ASG-0121,Marta López Ruiz,33695454V,1954-06-18,Málaga,POL-A-00121,auto_terceros,2024-02-05,890,activa,9842 TFZ
+ASG-0122,Nuria Pérez Sánchez,66152494D,1970-07-31,Sevilla,POL-A-00122,auto_todo_riesgo,2025-12-08,720,activa,2094 FDY
+ASG-0123,Marta Pérez Domínguez,85410266L,1952-02-25,Zaragoza,POL-R-00123,responsabilidad_civil,2022-03-12,410,activa,
+ASG-0124,Sara Martínez Torres,51826385W,1963-06-03,Zaragoza,POL-R-00124,responsabilidad_civil,2021-08-06,720,activa,
+ASG-0125,Diego Navarro Martínez,19195381H,1990-09-04,Granada,POL-R-00125,responsabilidad_civil,2024-09-11,410,activa,
+ASG-0126,Elena García Moreno,22687328J,1961-07-21,Valladolid,POL-H-00126,hogar,2021-08-07,240,activa,
+ASG-0127,Álvaro Blanco Pérez,37589331V,1978-10-31,Valencia,POL-A-00127,auto_todo_riesgo,2021-05-13,890,activa,5835 BFJ
+ASG-0128,Carlos Navarro López,11347066Q,1982-12-06,Granada,POL-A-00128,auto_todo_riesgo,2025-09-06,720,activa,2519 LXK
+ASG-0129,Carmen Moreno Gil,85465490C,1959-12-24,Vigo,POL-A-00129,auto_terceros,2023-09-03,180,activa,4688 TXP
+ASG-0130,Paula Pérez Fernández,84127728F,1972-08-11,Sevilla,POL-H-00130,hogar,2025-01-01,410,activa,
+ASG-0131,Carlos Fernández Fernández,33888349B,1982-04-07,Alicante,POL-A-00131,auto_todo_riesgo,2021-04-07,180,activa,3216 ZMX
+ASG-0132,Ana Díaz Vázquez,95247324T,1953-01-20,Zaragoza,POL-A-00132,auto_terceros,2022-09-04,240,activa,5394 TRF
+ASG-0133,Irene Torres López,74259750H,1978-05-15,Zaragoza,POL-A-00133,auto_terceros,2025-02-27,320,activa,3145 CDM
+ASG-0134,Sara Fernández Gil,11520829Z,1952-09-11,Málaga,POL-H-00134,hogar,2025-07-15,240,activa,
+ASG-0135,Laura Díaz Vázquez,79905894F,1986-12-15,Málaga,POL-A-00135,auto_terceros,2022-12-22,560,activa,4586 CPY
+ASG-0136,Miguel Martínez Álvarez,58731652W,1968-02-10,Vigo,POL-H-00136,hogar,2021-01-24,320,activa,
+ASG-0137,David Gil López,95426047J,1951-11-13,Valladolid,POL-H-00137,hogar,2022-09-07,410,activa,
+ASG-0138,Diego Martínez Vázquez,29556961Y,1992-06-10,Valladolid,POL-R-00138,responsabilidad_civil,2025-12-16,180,activa,
+ASG-0139,Laura Díaz Sánchez,42608523B,1987-12-03,Bilbao,POL-H-00139,hogar,2022-07-22,720,activa,
+ASG-0140,Pablo García Sánchez,15153679Z,1992-07-31,Málaga,POL-A-00140,auto_terceros,2024-02-25,240,activa,7451 GJZ
+ASG-0141,Miguel Moreno Torres,68534190D,1988-10-20,Bilbao,POL-A-00141,auto_todo_riesgo,2023-02-04,180,activa,7496 RPJ
+ASG-0142,Irene Álvarez Ruiz,54384950R,1957-12-22,Bilbao,POL-H-00142,hogar,2021-01-20,720,activa,
+ASG-0143,Pablo Gómez Ruiz,40265642W,1977-09-13,Granada,POL-A-00143,auto_todo_riesgo,2025-08-28,410,activa,8643 TCL
+ASG-0144,Carmen Martínez Díaz,72328931A,1980-02-27,Sevilla,POL-R-00144,responsabilidad_civil,2023-04-17,890,activa,
+ASG-0145,Javier Torres López,26061271V,1975-02-18,Sevilla,POL-A-00145,auto_todo_riesgo,2021-09-15,720,activa,1903 WGK
+ASG-0146,Ana Díaz Blanco,46264975S,1951-03-20,Zaragoza,POL-R-00146,responsabilidad_civil,2022-12-26,240,activa,
+ASG-0147,Sergio Díaz Domínguez,79496093C,1956-09-02,Vigo,POL-H-00147,hogar,2023-06-23,240,activa,
+ASG-0148,David García Gómez,62455801Z,1958-05-01,Granada,POL-A-00148,auto_todo_riesgo,2023-07-23,320,activa,7617 XBX
+ASG-0149,Lucía Martínez Álvarez,95190545P,1961-10-04,Madrid,POL-A-00149,auto_terceros,2025-12-06,180,activa,9020 CBY
+ASG-0150,Marta Fernández Blanco,30918371T,1994-03-17,Bilbao,POL-R-00150,responsabilidad_civil,2021-07-27,240,activa,
+ASG-0151,Marta Fernández Martínez,51846762R,1995-03-06,Alicante,POL-A-00151,auto_terceros,2021-06-19,410,activa,9668 FSR
+ASG-0152,Nuria Navarro Ruiz,57711000K,1957-07-03,Sevilla,POL-R-00152,responsabilidad_civil,2025-05-14,180,activa,
+ASG-0153,Álvaro Ruiz Martínez,16681913J,1977-05-26,Madrid,POL-A-00153,auto_terceros,2023-10-18,720,activa,4377 BBM
+ASG-0154,Pablo López Torres,76108263K,1958-11-05,Málaga,POL-A-00154,auto_terceros,2024-05-03,320,activa,3921 YKC
+ASG-0155,Miguel Domínguez Martínez,78610191D,1958-05-25,Valencia,POL-A-00155,auto_terceros,2024-12-29,890,activa,8360 VBN
+ASG-0156,Raúl Blanco Gómez,37351035R,1995-08-10,Sevilla,POL-H-00156,hogar,2024-08-08,720,activa,
+ASG-0157,Sara Vázquez Martínez,27301329F,1993-08-30,Sevilla,POL-R-00157,responsabilidad_civil,2024-05-30,560,activa,
+ASG-0158,Daniel Sánchez Pérez,88375364A,1959-07-12,Zaragoza,POL-A-00158,auto_todo_riesgo,2022-06-03,410,activa,1379 RVN
+ASG-0159,Marta Torres Navarro,40844858D,1979-08-03,Sevilla,POL-A-00159,auto_todo_riesgo,2023-01-09,410,activa,9164 SWG
+ASG-0160,Raúl Domínguez Fernández,44198838Z,1958-03-05,Valencia,POL-R-00160,responsabilidad_civil,2022-12-30,320,activa,
+ASG-0161,David Díaz Ruiz,64586993A,1985-06-27,Valencia,POL-A-00161,auto_terceros,2024-09-27,560,activa,3784 YBZ
+ASG-0162,Lucía Ramos Pérez,51624168R,1963-11-06,Valencia,POL-H-00162,hogar,2024-08-05,180,activa,
+ASG-0163,David Gómez Ramos,40020988E,1991-11-27,Madrid,POL-H-00163,hogar,2025-01-07,890,activa,
+ASG-0164,Marta Navarro Martínez,96874484W,1960-10-09,Vigo,POL-R-00164,responsabilidad_civil,2022-06-15,560,activa,
+ASG-0165,Lucía Moreno Sánchez,51984761T,1960-10-22,Alicante,POL-H-00165,hogar,2021-07-02,560,activa,
+ASG-0166,Ana Ruiz Pérez,56025859K,1965-12-21,Valladolid,POL-A-00166,auto_terceros,2025-05-13,560,activa,6971 SJV
+ASG-0167,Pablo Navarro Martínez,96296613Y,1995-11-17,Valencia,POL-A-00167,auto_todo_riesgo,2024-12-21,180,activa,7599 FHF
+ASG-0168,David Martínez Domínguez,15618315G,1951-10-14,Valencia,POL-A-00168,auto_terceros,2022-09-02,240,activa,4494 XRY
+ASG-0169,Sara Díaz Ruiz,26973902P,1994-01-09,Zaragoza,POL-A-00169,auto_todo_riesgo,2022-10-18,890,anulada,7478 NNC
+ASG-0170,Laura Martínez Martínez,68500500Z,1967-05-18,Alicante,POL-A-00170,auto_terceros,2022-06-27,180,activa,8774 DFH
+ASG-0171,Ana Ruiz Romero,19758575B,1987-06-24,Málaga,POL-H-00171,hogar,2023-07-08,560,activa,
+ASG-0172,Daniel García Sánchez,53591243R,1972-10-05,Bilbao,POL-A-00172,auto_todo_riesgo,2021-12-27,180,activa,7339 DCJ
+ASG-0173,Elena Gómez Romero,10235194X,1964-01-15,Sevilla,POL-R-00173,responsabilidad_civil,2026-04-07,320,activa,
+ASG-0174,Carlos Sánchez López,46564788T,1962-04-23,Granada,POL-H-00174,hogar,2026-07-11,720,activa,
+ASG-0175,Álvaro Fernández Moreno,25568427V,1951-07-31,Vigo,POL-A-00175,auto_todo_riesgo,2025-03-27,240,activa,4508 WRD
+ASG-0176,Elena Sánchez Pérez,34800313W,1965-09-12,Bilbao,POL-H-00176,hogar,2022-05-05,720,activa,
+ASG-0177,Sara Vázquez Gil,72282275Z,1993-07-23,Valladolid,POL-H-00177,hogar,2022-04-24,180,activa,
+ASG-0178,Carlos Moreno Gómez,48412091N,1984-10-05,Vigo,POL-A-00178,auto_todo_riesgo,2026-05-31,720,activa,6325 MGL
+ASG-0179,Miguel Díaz López,95239113T,1964-01-20,Granada,POL-A-00179,auto_terceros,2021-07-13,890,activa,9031 MLT
+ASG-0180,Irene Domínguez López,40053088Z,1970-06-01,Valladolid,POL-A-00180,auto_todo_riesgo,2026-02-07,720,activa,1842 PNB
+ASG-0181,Carlos Domínguez García,86615974K,1987-01-22,Madrid,POL-A-00181,auto_todo_riesgo,2022-02-15,320,activa,7998 LKK
+ASG-0182,Diego Gómez Navarro,82985749R,1993-06-08,Alicante,POL-A-00182,auto_terceros,2021-04-28,180,activa,1166 ZZR
+ASG-0183,David Blanco Moreno,16016998M,1971-11-24,Alicante,POL-A-00183,auto_todo_riesgo,2023-05-03,240,activa,1436 NSX
+ASG-0184,Miguel Navarro García,74076885A,1980-06-01,Valladolid,POL-A-00184,auto_terceros,2025-02-11,560,activa,7255 PDS
+ASG-0185,Sergio Gil Ramos,33480401Z,1953-12-28,Bilbao,POL-H-00185,hogar,2025-11-22,560,activa,
+ASG-0186,Marta Serrano Gil,69259508E,1986-10-08,Granada,POL-A-00186,auto_todo_riesgo,2024-07-08,320,activa,5067 ZVD
+ASG-0187,Raúl Ramos Blanco,77079380D,1986-07-27,Madrid,POL-A-00187,auto_terceros,2026-04-03,180,activa,3884 WGH
+ASG-0188,Lucía López Torres,92763488A,1962-12-28,Granada,POL-R-00188,responsabilidad_civil,2021-01-05,560,activa,
+ASG-0189,Sergio Ramos Pérez,16870286Q,1984-01-13,Valencia,POL-A-00189,auto_todo_riesgo,2024-06-15,320,activa,5365 JDT
+ASG-0190,Miguel Navarro Díaz,38189927Z,1964-11-09,Bilbao,POL-H-00190,hogar,2023-06-26,180,activa,
+ASG-0191,Pablo Domínguez Blanco,31244558R,1957-08-06,Zaragoza,POL-A-00191,auto_todo_riesgo,2021-03-23,180,activa,7100 JMM
+ASG-0192,Pablo Pérez Romero,33121583L,1955-08-30,Vigo,POL-A-00192,auto_todo_riesgo,2022-02-15,560,activa,1579 JJH
+ASG-0193,David Ramos Torres,89219618L,1964-02-05,Valencia,POL-A-00193,auto_terceros,2021-09-13,410,activa,2468 KWJ
+ASG-0194,Paula Serrano Díaz,75610752T,1958-02-23,Málaga,POL-R-00194,responsabilidad_civil,2025-03-19,720,activa,
+ASG-0195,Diego Romero Pérez,92652304R,1966-03-29,Madrid,POL-A-00195,auto_terceros,2025-02-13,410,anulada,5818 HNR
+ASG-0196,Raúl Ramos Fernández,73021723N,1958-10-01,Alicante,POL-R-00196,responsabilidad_civil,2020-12-25,720,activa,
+ASG-0197,Javier Pérez Torres,14640089Z,1988-04-29,Zaragoza,POL-A-00197,auto_todo_riesgo,2023-03-21,320,activa,1062 DDM
+ASG-0198,Miguel Martínez Serrano,67732171T,1982-05-16,Vigo,POL-A-00198,auto_todo_riesgo,2023-04-30,320,activa,6392 CBT
+ASG-0199,Laura Moreno Gil,25701358P,1950-01-25,Sevilla,POL-H-00199,hogar,2022-12-02,240,activa,
+ASG-0200,Carlos Torres Martínez,44606674Z,1952-08-11,Vigo,POL-H-00200,hogar,2025-10-29,720,activa,
+ASG-0201,Álvaro López Blanco,54508967W,1987-10-07,Sevilla,POL-H-00201,hogar,2021-05-04,180,activa,
+ASG-0202,Raúl Álvarez Moreno,45298530F,1977-09-08,Valladolid,POL-A-00202,auto_terceros,2025-04-05,180,anulada,7005 FPV
+ASG-0203,Diego Pérez López,16667344A,1965-05-30,Málaga,POL-A-00203,auto_todo_riesgo,2023-10-09,320,activa,1639 ZHD
+ASG-0204,Diego Martínez Moreno,88621916H,1979-09-17,Bilbao,POL-H-00204,hogar,2020-11-22,180,activa,
+ASG-0205,Ana Vázquez Ruiz,38923132W,1984-04-23,Granada,POL-H-00205,hogar,2024-07-16,890,activa,
+ASG-0206,Laura Torres Ramos,53818021E,1975-11-20,Valencia,POL-A-00206,auto_todo_riesgo,2022-12-20,320,activa,8561 MLW
+ASG-0207,Diego Ramos Martínez,60804598G,1983-02-18,Málaga,POL-A-00207,auto_terceros,2023-07-21,560,activa,6796 SGN
+ASG-0208,Javier Torres López,79899607E,1987-10-26,Bilbao,POL-A-00208,auto_terceros,2023-06-29,320,activa,1474 PRD
+ASG-0209,Carlos García Torres,88605899D,1975-09-19,Valencia,POL-A-00209,auto_terceros,2020-12-30,410,activa,7320 ZXF
+ASG-0210,Ana López Domínguez,92147548A,1957-04-26,Zaragoza,POL-H-00210,hogar,2024-03-14,240,activa,
+ASG-0211,Irene Domínguez Domínguez,69527677B,1984-08-14,Bilbao,POL-H-00211,hogar,2021-01-11,720,activa,
+ASG-0212,Raúl López Gil,11487240M,1977-08-29,Zaragoza,POL-R-00212,responsabilidad_civil,2022-01-05,180,activa,
+ASG-0213,Ana Díaz Martínez,67181907B,1978-03-04,Valladolid,POL-A-00213,auto_todo_riesgo,2025-10-15,240,activa,2715 LJY
+ASG-0214,Irene Navarro Sánchez,78606787D,1955-06-06,Alicante,POL-H-00214,hogar,2022-06-30,890,activa,
+ASG-0215,Daniel Sánchez Vázquez,29515776Z,1975-01-23,Valladolid,POL-A-00215,auto_todo_riesgo,2021-08-18,410,activa,5850 DHG
+ASG-0216,Paula Ramos Díaz,83539296F,1980-03-25,Valencia,POL-R-00216,responsabilidad_civil,2026-05-27,720,activa,
+ASG-0217,Paula Romero Domínguez,92545808H,1989-10-31,Vigo,POL-R-00217,responsabilidad_civil,2026-04-19,180,anulada,
+ASG-0218,Álvaro Ramos Vázquez,78674271B,1972-10-03,Granada,POL-H-00218,hogar,2022-04-19,560,activa,
+ASG-0219,Laura Vázquez Blanco,71524693Y,1980-12-13,Málaga,POL-H-00219,hogar,2022-01-11,410,activa,
+ASG-0220,Lucía Romero Romero,49127700E,1967-02-18,Valladolid,POL-A-00220,auto_todo_riesgo,2021-09-26,410,activa,1964 XXV
+ASG-0221,Carmen Navarro Gómez,45074590H,1977-04-12,Vigo,POL-A-00221,auto_todo_riesgo,2024-06-09,410,activa,2106 VTL
+ASG-0222,Miguel Díaz Martínez,36823213Y,1962-06-18,Madrid,POL-A-00222,auto_todo_riesgo,2024-04-23,180,activa,2411 THG
+ASG-0223,Javier Domínguez Álvarez,14203076R,1978-01-24,Vigo,POL-H-00223,hogar,2024-04-02,180,activa,
+ASG-0224,Pablo Ramos Álvarez,50537092C,1981-08-21,Alicante,POL-A-00224,auto_todo_riesgo,2021-01-12,560,activa,2431 BFR
+ASG-0225,Diego Fernández Ramos,35637028T,1962-08-12,Alicante,POL-H-00225,hogar,2024-07-15,180,activa,
+ASG-0226,Javier Sánchez Díaz,38400590C,1978-09-01,Sevilla,POL-R-00226,responsabilidad_civil,2023-05-26,180,activa,
+ASG-0227,Sergio Ramos Domínguez,35378543N,1986-04-05,Valladolid,POL-A-00227,auto_todo_riesgo,2024-03-18,410,activa,6014 VDM
+ASG-0228,Elena Ruiz López,32188565L,1974-04-05,Málaga,POL-R-00228,responsabilidad_civil,2024-05-09,240,activa,
+ASG-0229,Sergio Sánchez Ruiz,33301233Q,1990-03-01,Zaragoza,POL-R-00229,responsabilidad_civil,2021-01-27,320,activa,
+ASG-0230,Nuria Ruiz Martínez,86686972H,1987-04-23,Zaragoza,POL-R-00230,responsabilidad_civil,2026-05-24,240,activa,
+ASG-0231,Sara Sánchez Moreno,38411370J,1967-08-30,Málaga,POL-A-00231,auto_todo_riesgo,2023-01-29,560,activa,2526 WJW
+ASG-0232,Diego Álvarez Vázquez,47909634J,1976-03-19,Sevilla,POL-A-00232,auto_terceros,2023-04-18,890,activa,6345 XRR
+ASG-0233,Carmen Pérez Romero,30089243E,1952-02-19,Zaragoza,POL-A-00233,auto_terceros,2021-04-05,720,activa,3338 RPD
+ASG-0234,Paula Navarro Blanco,55546940P,1971-02-10,Málaga,POL-A-00234,auto_terceros,2022-03-13,720,activa,1971 HVD
+ASG-0235,Elena Gil Navarro,57505473E,1977-05-06,Valladolid,POL-A-00235,auto_terceros,2022-07-01,180,activa,6299 PDW
+ASG-0236,Marta Domínguez López,51892147F,1984-07-14,Málaga,POL-A-00236,auto_terceros,2026-05-07,890,activa,6977 NTH
+ASG-0237,Irene Ramos Gil,80139065G,1970-09-19,Madrid,POL-H-00237,hogar,2024-03-29,890,activa,
+ASG-0238,Javier Díaz Blanco,14472323X,1965-05-10,Bilbao,POL-A-00238,auto_terceros,2022-01-22,240,activa,9234 LJB
+ASG-0239,Raúl García Torres,25347922J,1961-05-30,Valencia,POL-H-00239,hogar,2022-09-23,890,activa,
+ASG-0240,Ana Álvarez Moreno,85075636Q,1971-05-21,Zaragoza,POL-A-00240,auto_todo_riesgo,2022-11-25,320,activa,9162 LMP
+ASG-0241,Carlos Blanco Fernández,91702350Q,1964-11-17,Granada,POL-A-00241,auto_terceros,2022-12-18,560,activa,2421 TCJ
+ASG-0242,Sara Gil Domínguez,38405675E,1950-12-31,Bilbao,POL-H-00242,hogar,2025-07-10,410,activa,
+ASG-0243,Álvaro García Álvarez,76313899Z,1986-07-09,Madrid,POL-A-00243,auto_todo_riesgo,2021-11-29,320,activa,2860 XJV
+ASG-0244,Javier Ruiz Serrano,84826378D,1966-07-26,Málaga,POL-A-00244,auto_todo_riesgo,2024-11-30,410,activa,6341 KTC
+ASG-0245,Sara García Ramos,11080246L,1954-04-21,Vigo,POL-H-00245,hogar,2021-04-07,410,activa,
+ASG-0246,Pablo Ruiz Pérez,66511705Y,1974-07-25,Zaragoza,POL-R-00246,responsabilidad_civil,2021-07-16,320,activa,
+ASG-0247,Ana Torres Gil,11506501S,1973-12-06,Bilbao,POL-A-00247,auto_terceros,2023-03-29,180,activa,1751 MFV
+ASG-0248,Irene Pérez Gómez,55042842R,1959-03-12,Málaga,POL-A-00248,auto_terceros,2025-07-19,240,activa,2241 RNV
+ASG-0249,Elena Torres García,58794788A,1957-11-17,Vigo,POL-A-00249,auto_todo_riesgo,2022-07-10,560,activa,6691 XYJ
+ASG-0250,Raúl Blanco García,69978789R,1992-09-03,Madrid,POL-A-00250,auto_todo_riesgo,2024-10-11,560,activa,2567 KDT
+ASG-0251,David Martínez Sánchez,62985066A,1983-12-10,Alicante,POL-A-00251,auto_todo_riesgo,2026-03-23,410,activa,5987 LTZ
+ASG-0252,Sergio Torres Ramos,87959852D,1960-09-01,Alicante,POL-A-00252,auto_todo_riesgo,2023-11-06,720,activa,8442 SCJ
+ASG-0253,Sara Navarro Álvarez,87436736M,1987-07-15,Valladolid,POL-R-00253,responsabilidad_civil,2025-02-20,180,activa,
+ASG-0254,Pablo Álvarez Díaz,71604956E,1974-12-06,Sevilla,POL-A-00254,auto_terceros,2023-10-09,320,activa,5622 VVJ
+ASG-0255,Pablo Moreno Ruiz,66647907W,1984-11-30,Bilbao,POL-A-00255,auto_terceros,2024-06-09,180,activa,6000 LRF
+ASG-0256,Laura Ramos Ruiz,38331411W,1958-11-02,Alicante,POL-H-00256,hogar,2025-07-06,560,activa,
+ASG-0257,Javier Moreno García,99538738M,1977-10-20,Granada,POL-A-00257,auto_terceros,2025-12-16,180,activa,7102 JHF
+ASG-0258,Sergio García Domínguez,77380724F,1975-10-13,Zaragoza,POL-A-00258,auto_todo_riesgo,2020-11-22,720,activa,4285 DTK
+ASG-0259,Carlos López Gómez,76641147H,1964-04-06,Málaga,POL-A-00259,auto_todo_riesgo,2021-02-28,320,activa,6286 SNF
+ASG-0260,Elena Torres Martínez,16946837T,1957-08-21,Valencia,POL-A-00260,auto_todo_riesgo,2020-12-15,180,activa,3878 RRH
+ASG-0261,Sara Torres Domínguez,98118533G,1988-04-17,Valladolid,POL-A-00261,auto_todo_riesgo,2021-05-12,410,activa,8885 DRY
+ASG-0262,Carmen Torres Díaz,83293260W,1958-12-01,Granada,POL-H-00262,hogar,2024-05-03,560,activa,
+ASG-0263,Diego Blanco Fernández,73187160X,1991-12-31,Zaragoza,POL-H-00263,hogar,2026-03-13,560,activa,
+ASG-0264,Elena Moreno Romero,96139923S,1950-12-10,Madrid,POL-A-00264,auto_todo_riesgo,2024-09-28,320,activa,8311 FXM
+ASG-0265,Sergio Gil Gómez,65205756C,1980-12-29,Málaga,POL-H-00265,hogar,2026-03-17,180,activa,
+ASG-0266,Irene Moreno García,29988731C,1981-05-25,Valencia,POL-A-00266,auto_todo_riesgo,2020-12-27,180,impagada,7942 CVS
+ASG-0267,Javier Fernández Romero,24872521E,1954-03-02,Zaragoza,POL-R-00267,responsabilidad_civil,2021-10-20,410,impagada,
+ASG-0268,Miguel López Ruiz,74530139L,1980-03-30,Madrid,POL-A-00268,auto_terceros,2021-07-03,320,impagada,8994 YFR
+ASG-0269,David Gómez Moreno,86084991Q,1966-05-16,Sevilla,POL-A-00269,auto_terceros,2025-01-13,720,impagada,8319 BTX
+ASG-0270,Nuria Álvarez Díaz,86906479J,1961-10-16,Vigo,POL-R-00270,responsabilidad_civil,2020-12-29,720,impagada,
+ASG-0271,Javier Pérez Pérez,32089393T,1980-09-25,Madrid,POL-H-00271,hogar,2023-08-10,720,impagada,
+ASG-0272,Javier López Serrano,68840503P,1987-12-03,Madrid,POL-A-00272,auto_todo_riesgo,2023-12-11,320,impagada,4216 MJX
+ASG-0273,Elena López Navarro,83080541X,1967-04-06,Granada,POL-A-00273,auto_terceros,2021-07-30,560,impagada,6551 RWF
+ASG-0274,Paula López García,45116224E,1995-06-10,Sevilla,POL-H-00274,hogar,2021-08-30,180,impagada,
+ASG-0275,Paula Moreno Vázquez,78881118L,1990-05-25,Málaga,POL-A-00275,auto_terceros,2022-11-25,240,impagada,1610 CPC
+ASG-0276,Pablo Romero Domínguez,51236682L,1995-06-16,Vigo,POL-A-00276,auto_terceros,2021-01-14,410,impagada,9890 DCD
+ASG-0277,Marta Pérez Fernández,27919414J,1952-11-01,Granada,POL-A-00277,auto_terceros,2025-06-04,720,impagada,4363 CSP
+ASG-0278,Sergio López Pérez,41691465D,1994-07-28,Valladolid,POL-H-00278,hogar,2020-12-11,240,impagada,
+ASG-0279,Paula Martínez Díaz,57171810C,1972-04-16,Bilbao,POL-R-00279,responsabilidad_civil,2021-01-22,180,impagada,
+ASG-0280,Irene Moreno Fernández,35349138R,1989-10-15,Valladolid,POL-A-00280,auto_todo_riesgo,2025-06-22,890,impagada,1260 CDH
+ASG-0281,David Navarro Torres,25441817E,1963-03-24,Madrid,POL-A-00281,auto_todo_riesgo,2025-12-26,720,activa,6340 NYK
+ASG-0282,Javier García Vázquez,16420883X,1958-01-12,Zaragoza,POL-H-00282,hogar,2025-01-25,410,activa,
+ASG-0283,Carmen Pérez Torres,57703598W,1962-01-22,Zaragoza,POL-A-00283,auto_todo_riesgo,2021-11-13,560,activa,2464 JXF
+ASG-0284,Paula Martínez Fernández,32592860C,1980-04-12,Vigo,POL-H-00284,hogar,2022-04-02,890,activa,
+ASG-0285,Sara Serrano Pérez,82075055S,1979-06-23,Sevilla,POL-A-00285,auto_todo_riesgo,2024-06-08,180,activa,1772 HYM
+ASG-0286,Nuria Moreno Gómez,26426559L,1974-12-05,Bilbao,POL-H-00286,hogar,2024-06-19,180,activa,
+ASG-0287,Sergio Vázquez Pérez,23932910F,1951-04-07,Vigo,POL-A-00287,auto_todo_riesgo,2022-12-27,890,activa,1614 XFW
+ASG-0288,Pablo Serrano Serrano,89416823E,1985-09-01,Sevilla,POL-H-00288,hogar,2022-10-26,560,activa,
+ASG-0289,Elena Sánchez Sánchez,21053799J,1960-02-11,Valladolid,POL-A-00289,auto_todo_riesgo,2026-11-01,560,activa,1921 LPG
+ASG-0290,Daniel Álvarez Díaz,14711886M,1959-08-05,Málaga,POL-H-00290,hogar,2026-10-27,410,activa,
+ASG-0291,Carmen Gómez Sánchez,25496648K,1985-05-09,Vigo,POL-A-00291,auto_todo_riesgo,2026-11-02,320,activa,5017 DJD
+ASG-0292,Daniel Díaz López,93718200P,1979-08-22,Alicante,POL-H-00292,hogar,2026-10-27,180,activa,
+ASG-0293,Raúl Moreno Ruiz,95590365L,1977-09-02,Granada,POL-A-00293,auto_todo_riesgo,2026-11-01,180,activa,4211 YBB
+ASG-0294,Raúl García Vázquez,13302736L,1956-01-18,Zaragoza,POL-H-00294,hogar,2026-11-01,410,activa,
+ASG-0295,Marta Moreno García,48115719H,1955-08-18,Vigo,POL-A-00295,auto_todo_riesgo,2026-10-30,180,activa,6640 KNC
+ASG-0296,Raúl Navarro Álvarez,29284848Y,1955-04-09,Madrid,POL-H-00296,hogar,2026-10-29,240,activa,
+ASG-0297,Nuria Martínez Domínguez,61260029N,1975-08-22,Sevilla,POL-A-00297,auto_todo_riesgo,2026-10-25,320,activa,3078 MYV
+ASG-0298,Javier Ruiz Ruiz,61439681B,1979-07-24,Valladolid,POL-H-00298,hogar,2026-10-25,240,activa,
+ASG-0299,Marta Sánchez Sánchez,12631615S,1989-09-04,Málaga,POL-A-00299,auto_todo_riesgo,2026-10-30,240,activa,3540 SLL
+ASG-0300,Lucía Sánchez Romero,38936976T,1994-08-07,Granada,POL-H-00300,hogar,2026-10-25,890,activa,

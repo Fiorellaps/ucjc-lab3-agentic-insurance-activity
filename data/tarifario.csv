@@ -1,0 +1,19 @@
+categoria,concepto,importe_min_eur,importe_max_eur
+auto,parachoques,350,900
+auto,capó,400,1100
+auto,puerta,400,1300
+auto,faro,120,450
+auto,parabrisas,150,600
+auto,pintura de panel,200,600
+auto,grúa y traslado,80,150
+auto,robo de vehículo (valor venal),3000,20000
+hogar,reparación de tubería,120,450
+hogar,secado y pintura tras fuga,200,1500
+hogar,cerradura y puerta tras robo,90,450
+hogar,cristal o ventana,80,500
+hogar,lavadora,300,700
+hogar,televisor,250,1200
+hogar,reparación tras incendio,2000,30000
+hogar,joyas y objetos de valor,200,3000
+rc,daños materiales a terceros,200,5000
+rc,lesiones leves a terceros,300,4000
